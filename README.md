@@ -14,3 +14,8 @@ $ go build
 $ go ./hello-go
 ```
 
+### Upgrade Go lang
+
+```
+$ brew upgrade go
+```
