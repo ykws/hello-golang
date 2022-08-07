@@ -1,17 +1,19 @@
 # Hello, Go lang
 
-[![macOS](https://img.shields.io/badge/macOS-Catalina-black)](https://developer.apple.com/macos/)
-[![Go](https://img.shields.io/badge/Go-1.15-blue)](https://golang.org)
+[![macOS](https://img.shields.io/badge/macOS-Monterey-black)](https://developer.apple.com/macos/)
+[![Go](https://img.shields.io/badge/Go-1.19-blue)](https://golang.org)
 
 https://golang.org/
 
 
 ## Getting Started
 
+clone this repository, or refer to [this page](https://go.dev/doc/tutorial/getting-started).
+
 ```
 $ brew install go
-$ go build
-$ go ./hello-go
+$ go mod init example/hello
+$ go run .
 ```
 
 ### Upgrade Go lang
