@@ -1,7 +1,7 @@
 # Hello, Go lang
 
-[![macOS](https://img.shields.io/badge/macOS-Monterey-black)](https://developer.apple.com/macos/)
-[![Go](https://img.shields.io/badge/Go-1.19-blue)](https://golang.org)
+[![macOS](https://img.shields.io/badge/macOS-Sonoma-black)](https://developer.apple.com/macos/)
+[![Go](https://img.shields.io/badge/Go-1.22-blue)](https://golang.org)
 
 https://golang.org/
 
